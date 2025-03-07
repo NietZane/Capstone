@@ -1,0 +1,42 @@
+@font-face
+{font-family: "FOT";
+Src: url(./FOT-YurukaStd-UB.otf)
+}
+
+body{
+    padding: 20px 20px;
+    text-align: center;
+    color: white;
+    border: 1px green; 
+    font-family: "FOT";
+}
+
+header{
+    font-family: "FOT";
+    font-size: 40px;
+    background-color: green;
+    color: white;
+}
+
+a {
+    color: white;
+}
+.parallax{
+  background-image: url("./Images/pokemon-mystery-dungeon-rescue-team-dx-igra-pokemony-siianie.jpg");
+min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+    font-family: "FOT";
+}
+
+.banner {
+    height: 200px;
+    background-image: url(./Images/hGEu3d7.png);
+    background-size: cover;
+    background-position: center;
+}
